@@ -1,0 +1,23 @@
+.all,header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+body{
+    background-image: linear-gradient(120deg,#f6d365,#fda085);
+    color: white;
+}
+#sbtn , #ip{
+    padding : 0.5rem;
+    font-size: medium;
+    border: none;
+    background: white;
+}
+#sbtn{
+    background-color:#ff6f61;
+    color: white;
+}
+#tasks{
+    text-align: center;
+}
